@@ -16,7 +16,7 @@ const Blog = ({blog}) => {
       </div>
       <div class="card__footer">
         <div class="user">
-          <img src="https://i.ibb.co/4j7KzMc/markSix.jpg" alt="user__image" class="user__image"/>
+          <img src="https://i.ibb.co/DK3vT0w/mark-Fifteen.jpg" alt="user__image" class="user__image"/>
           <div class="user__info">
             <h5>{blog.author}</h5>
             <small>{blog.time}</small>
