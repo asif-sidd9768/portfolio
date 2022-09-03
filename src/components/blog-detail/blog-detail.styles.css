@@ -1,0 +1,35 @@
+.blog-detail-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: beige;
+  border-radius: 1em;
+  background: #ECE9E6;
+  background: linear-gradient(to right, #f1efef, #ECE9E6);
+}
+
+.blog-detail-title {
+  font-size: 48px;
+  font-family:'Hubballi'
+}
+
+.blog-detail-content {
+  font-family:'Courier New', Courier, monospace;
+  font-size:20px;
+}
+
+.blog-detail-content-first-letter {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.blog-detail-quote {
+  font-size: 44px;
+  font-family: 'Amatic SC';
+}
+
+.vl {
+  margin-right: 10px;
+  display: inline;
+  border-left: 4px solid rgb(68, 69, 68);
+}
