@@ -1,4 +1,3 @@
-import { CCard, CCardImage, CCardBody, CCardTitle, CCardText, CButton } from "@coreui/react"
 import marksData from "../../assets/content/marksData"
 import Mark from "../mark/mark.component"
 import "./marks.styles.css"

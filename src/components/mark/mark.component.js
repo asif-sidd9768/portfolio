@@ -1,9 +1,9 @@
-import { CCard, CCardBody, CCardText, CCardTitle, CButton, CCardImage } from "@coreui/react"
+import { CCard, CCardBody, CCardTitle, CButton, CCardImage } from "@coreui/react"
 import { Link } from "react-router-dom"
 import "./mark.styles.css"
 
 const Mark = ({mark}) => {
-  const {id, title, description, buttonText, image} = mark
+  const {id, title, image} = mark
   console.log(image)
 
   return (

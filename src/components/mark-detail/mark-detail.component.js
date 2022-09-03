@@ -8,7 +8,7 @@ const MarkDetail = (props) => {
 
   return (
     <div className="mark-detail-container">
-      <iframe frameborder="0" width="100%" height="600px" src={markData.url}></iframe>
+      <iframe frameborder="0" width="100%" title="show" height="600px" src={markData.url}></iframe>
     </div>
   )
 }
