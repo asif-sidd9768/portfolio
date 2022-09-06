@@ -5,7 +5,7 @@ const marksData = [
     description: 'mark one',
     image: 'https://i.ibb.co/8PxQNhq/markOne.jpg',
     url: 'https://replit.com/@AsifSiddique/markOne?embed=true',
-    source: 'https://replit.com/@AsifSiddique/markOne#index.js',
+    source: 'https://github.com/asif-sidd9768/mark1',
     buttonText: 'Go to mark1'
   },
   {
@@ -14,7 +14,7 @@ const marksData = [
     description: 'mark two',
     image: 'https://i.ibb.co/MfV0RjW/markTwo.jpg',
     url: 'https://replit.com/@AsifSiddique/markTwo?embed=true',
-    source: 'https://replit.com/@AsifSiddique/markTwo#index.js',
+    source: 'https://github.com/asif-sidd9768/mark2',
     buttonText: 'Go to mark2'
   },
   {
