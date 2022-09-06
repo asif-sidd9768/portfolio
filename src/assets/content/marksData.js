@@ -5,6 +5,7 @@ const marksData = [
     description: 'mark one',
     image: 'https://i.ibb.co/8PxQNhq/markOne.jpg',
     url: 'https://replit.com/@AsifSiddique/markOne?embed=true',
+    source: 'https://replit.com/@AsifSiddique/markOne#index.js',
     buttonText: 'Go to mark1'
   },
   {
@@ -13,6 +14,7 @@ const marksData = [
     description: 'mark two',
     image: 'https://i.ibb.co/MfV0RjW/markTwo.jpg',
     url: 'https://replit.com/@AsifSiddique/markTwo?embed=true',
+    source: 'https://replit.com/@AsifSiddique/markTwo#index.js',
     buttonText: 'Go to mark2'
   },
   {
@@ -21,6 +23,7 @@ const marksData = [
     description: 'mark three',
     image: 'https://i.ibb.co/F32Y7KN/mark-Three.jpg',
     link: '/',
+    source: 'https://github.com/asif-sidd9768',
     buttonText: 'Hosted site'
   },
   {
@@ -29,6 +32,7 @@ const marksData = [
     description: 'mark four',
     image: 'https://i.ibb.co/mC0z8cd/markFour.jpg',
     link: '/',
+    source: 'https://github.com/asif-sidd9768/portfolio',
     buttonText: 'Portfolio'
   },
   {
@@ -37,6 +41,7 @@ const marksData = [
     description: 'mark five',
     image: 'https://i.ibb.co/wdhb5T8/markFive.jpg',
     link: '/blogs',
+    source: 'https://github.com/asif-sidd9768/portfolio',
     buttonText: 'Visit Blogs'
   },
   {
@@ -45,6 +50,7 @@ const marksData = [
     description: 'mark six',
     image: 'https://i.ibb.co/4j7KzMc/markSix.jpg',
     url: 'https://steady-malasada-ccf596.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark7',
     buttonText: 'Go to mark6'
   },
   {
@@ -53,6 +59,7 @@ const marksData = [
     description: 'mark seven',
     image: 'https://i.ibb.co/jRxVdwY/mark-Seven.jpg',
     url: 'https://elegant-bunny-04f73f.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark6',
     buttonText: 'Go to mark7'
   },
   {
@@ -61,6 +68,7 @@ const marksData = [
     description: 'mark eight',
     image: 'https://i.ibb.co/GRsf1JK/mark-Eight.jpg',
     url: 'https://prismatic-palmier-88e675.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark8',
     buttonText: 'Go to mark8'
   },
   {
@@ -69,6 +77,7 @@ const marksData = [
     description: 'mark nine',
     image: 'https://i.ibb.co/gPS1X8y/markNine.jpg',
     url: 'https://luminous-pastelito-8320fa.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark9',
     buttonText: 'Go to mark9'
   },
   {
@@ -77,6 +86,7 @@ const marksData = [
     description: 'mark ten',
     image: 'https://i.ibb.co/8NPcYMJ/markTen.jpg',
     url: 'https://darling-vacherin-bb8863.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/cash-register',
     buttonText: 'Go to mark10'
   },
   {
@@ -85,6 +95,7 @@ const marksData = [
     description: 'mark eleven',
     image: 'https://i.ibb.co/vmQRckv/mark-Eleven.jpg',
     url: 'https://singular-pithivier-d722f0.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark11',
     buttonText: 'Go to mark11'
   },
   {
@@ -93,6 +104,7 @@ const marksData = [
     description: 'mark twelve',
     image: 'https://i.ibb.co/W0872zC/mark-Twelve.jpg',
     url: 'https://brilliant-lily-1ae013.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark12',
     buttonText: 'Go to mark12'
   },
   {
@@ -101,6 +113,7 @@ const marksData = [
     description: 'mark thirteen',
     image: 'https://i.ibb.co/n3NdP4m/mark-Thirteen.jpg',
     url: 'https://darling-brigadeiros-3f6f3c.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark13',
     buttonText: 'Go to mark13'
   },
   {
@@ -109,6 +122,7 @@ const marksData = [
     description: 'mark fourteen',
     image: 'https://i.ibb.co/2PxM53s/mark-Fourteen.jpg',
     url: 'https://bright-pithivier-895453.netlify.app/',
+    source: 'https://github.com/asif-sidd9768/mark14',
     buttonText: 'Go to mark14'
   },
   {
@@ -117,6 +131,7 @@ const marksData = [
     description: 'mark fifteen',
     image: 'https://i.ibb.co/DK3vT0w/mark-Fifteen.jpg',
     link: '/blogs',
+    source: 'https://github.com/asif-sidd9768/portfolio',
     buttonText: 'Visit Blogs'
   },
 ]

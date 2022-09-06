@@ -5,3 +5,8 @@
 .mark-detail-card-image {
   height: 200px
 }
+
+.detail-buttons-container {
+  margin-top: 15px;
+  display: flex;
+}
