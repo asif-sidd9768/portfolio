@@ -42,3 +42,43 @@
   font-size: 24px;
   font-family: 'Square Peg', cursive;
 }
+
+.logo-icons {
+  margin-right: 30px;
+}
+
+.logo-icon {
+  margin: 0 10px;
+}
+
+.logo-twitter {
+  color: black;
+  transition: 200ms;
+}
+.logo-twitter:hover {
+  fill: #1DA1F2;
+}
+
+.logo-github {
+  color: black;
+  transition: 200ms;
+}
+.logo-github:hover {
+  fill: #4078c0;
+}
+
+.logo-linkedin {
+  color: black;
+  transition: 200ms;
+}
+.logo-linkedin:hover {
+  fill: #0077b5;
+}
+
+.logo-instagram {
+  color: black;
+  transition: 200ms;
+}
+.logo-instagram:hover {
+  fill: #8a3ab9;
+}
