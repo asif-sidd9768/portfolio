@@ -26,7 +26,7 @@ const Mark = ({mark}) => {
                   </div>
                   <a href={mark.url} target="_blank" rel="noreferrer">
                     <button className="netlify-btn">
-                      {mark.newTabBtnTxt} <img class="new-tab-btn-icon" src="https://i.ibb.co/2crkPHp/resize-1.png" />
+                      {mark.newTabBtnTxt} <img alt="new tab icon" class="new-tab-btn-icon" src="https://i.ibb.co/2crkPHp/resize-1.png" />
                     </button>
                   </a>
                 </div>
