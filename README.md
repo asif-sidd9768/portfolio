@@ -20,3 +20,10 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
   alt="Home Page">
   <figcaption>Home Page</figcaption>
 </figure>
+
+<figure>
+  <img
+  src="https://i.ibb.co/h76J8cy/Screenshot-2022-09-22-at-3-49-32-PM.png"
+  alt="Marks Page">
+  <figcaption>Marks Page</figcaption>
+</figure>
