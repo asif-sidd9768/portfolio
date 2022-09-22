@@ -4,3 +4,11 @@
   float: right;
   margin-right: 4rem;
 }
+
+.footer-read-more-txt {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 0 5px;
+  border-radius: 5px
+}
