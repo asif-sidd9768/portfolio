@@ -5,7 +5,9 @@ import "./marks.styles.css"
 const Marks = () => {
 
   if(!marksData){
-    return null
+    return (
+      <p>Loading</p>
+    )
   }
 
   return (
