@@ -20,7 +20,7 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
   alt="Home Page">
   <figcaption>Home Page</figcaption>
 </figure>
-<br/>
+
 <br/>
 <br/>
 <figure>
@@ -31,6 +31,7 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
 </figure>
 
 <br/>
+<br/>
 <figure>
   <img
   src="https://i.ibb.co/tYqhLCn/Screenshot-2022-09-22-at-3-50-58-PM.png"
@@ -39,6 +40,7 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
 </figure>
 
 <br/>
+<br/>
 <figure>
   <img
   src="https://i.ibb.co/Dzp9GrG/Screenshot-2022-09-22-at-3-52-10-PM.png"
@@ -46,6 +48,7 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
   <figcaption>Blogs Page</figcaption>
 </figure>
 
+<br/>
 <br/>
 <figure>
   <img
