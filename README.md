@@ -21,9 +21,34 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
   <figcaption>Home Page</figcaption>
 </figure>
 
+<br/>
 <figure>
   <img
   src="https://i.ibb.co/h76J8cy/Screenshot-2022-09-22-at-3-49-32-PM.png"
   alt="Marks Page">
   <figcaption>Marks Page</figcaption>
+</figure>
+
+<br/>
+<figure>
+  <img
+  src="https://i.ibb.co/tYqhLCn/Screenshot-2022-09-22-at-3-50-58-PM.png"
+  alt="Mark Detail Page">
+  <figcaption>Mark Detail Page</figcaption>
+</figure>
+
+<br/>
+<figure>
+  <img
+  src="https://i.ibb.co/Dzp9GrG/Screenshot-2022-09-22-at-3-52-10-PM.png"
+  alt="Blogs Page">
+  <figcaption>Blogs Page</figcaption>
+</figure>
+
+<br/>
+<figure>
+  <img
+  src="https://i.ibb.co/rckqQ4D/Screenshot-2022-09-22-at-3-52-18-PM.png"
+  alt="Blog Detail Page">
+  <figcaption>Blog Detail Page</figcaption>
 </figure>
