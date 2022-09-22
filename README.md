@@ -12,3 +12,11 @@ A **Portfolio** is what shows our work and achievements. This has all the marks 
 
 ## Tech Stack
 > HTML, CSS, JavaScript, ReactJS, ParticlesJS, React-Router, 
+
+## Demo
+<figure>
+  <img
+  src="https://i.ibb.co/Kw1h4v6/Screenshot-2022-09-22-at-3-48-11-PM.png"
+  alt="Home Page">
+  <figcaption>Home Page</figcaption>
+</figure>
